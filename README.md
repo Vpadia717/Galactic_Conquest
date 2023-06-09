@@ -50,11 +50,11 @@ run = True
 actualLevel = 1
 ```
 
-## Screenshots
+## Game Preview
 
-Get a sneak peek into the captivating universe of Galactic Conquest through these stunning screenshots:
+Get a sneak peek into the captivating universe of Galactic Conquest:
 
-![Game Preview](assets/images/game_preview.png)
+<img src="assets/images/game_preview.png" alt="drawing"/>
 
 ## Acknowledgments
 
